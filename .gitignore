@@ -1,0 +1,62 @@
+# Maven target directory
+/target/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA project files
+.idea/
+
+# NetBeans project files
+nb-configuration.xml
+
+# Compiled Java classes
+*.class
+
+# Logs
+*.log
+*.log.*
+logs/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven-specific files
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
+
+# IDE-specific files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# macOS Finder files
+.DS_Store
+
+# Linux desktop.ini files
+.desktop.ini
+
+# Gradle-specific files
+.gradle/
+
+# Windows-specific files
+ehthumbs.db
+Thumbs.db
+
+# macOS-specific files
+.DS_Store
+
+# System and backup files
+*~
+*.bak
+*.swp
