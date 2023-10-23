@@ -83,5 +83,6 @@ class TestAllTogether {
 		assertEquals("The form was successfully submitted!", getAlertBannerText(driver));
 		
 	}
+		
 
 }
