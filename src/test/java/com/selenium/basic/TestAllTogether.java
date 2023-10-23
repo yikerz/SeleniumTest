@@ -1,10 +1,10 @@
+package com.selenium.basic;
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.time.Duration;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -38,7 +38,7 @@ class TestAllTogether {
 		Thread.sleep(1000);
 		
 		// radio button
-		driver.findElement(By.id("radio-button-2")).click();
+		driver.findElement(By.id("radio-button-3")).click();
 		Thread.sleep(1000);
 		
 		// checkbox

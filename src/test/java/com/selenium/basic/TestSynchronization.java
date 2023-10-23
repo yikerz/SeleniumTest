@@ -1,8 +1,7 @@
-import static org.junit.jupiter.api.Assertions.*;
+package com.selenium.basic;
 
 import java.time.Duration;
 import java.util.NoSuchElementException;
-import java.util.concurrent.TimeUnit;
 import java.util.function.Function;
 
 import org.junit.jupiter.api.AfterEach;
